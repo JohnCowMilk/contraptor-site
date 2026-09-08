@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["NN65Q7MF6X.JCM.Contraptor"],
+        "components": [
+          { "/": "/contraptor/c/*", "comment": "Community Challenge share links" },
+          { "/": "/contraptor/s/*", "comment": "Community Solution share links" }
+        ]
+      }
+    ]
+  }
+}
